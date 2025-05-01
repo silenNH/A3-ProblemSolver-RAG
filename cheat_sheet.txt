@@ -3,3 +3,10 @@ https://github.com/worldline/streamlit-pandasai
  source venv/bin/activate
  
  
+ questions: 
+ 
+get the top 10 CUSTOMER_ID with thte largest fraud amount(a fraud being TX_FRAUD=1) 
+ 
+plot the amount of fraud for the top 10 CUSTOMER_ID (a fraud being TX_FRAUD=1) 
+
+plot the distribution of tx amount for fraud versus non-fraud transactions
